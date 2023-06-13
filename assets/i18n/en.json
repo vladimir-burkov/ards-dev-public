@@ -1,0 +1,38 @@
+{   
+    "header": {
+        "logo": "<span>A</span>nimal<br><span>R</span>escue & <span>D</span>efence<br><span>S</span>quad<sup>&#169;</sup>",
+        "home": "home",
+        "donate": "donate",
+        "contacts": "contacts"
+    },
+    "home": {
+        "block1": {
+            "title": "Who we are",
+            "text": "We are a group of volunteers dedicated to the welfare, security and protection of animals and operate in the territory of Greece. We are a <span> non-commercial entity</span> and exist because of your support and your faith in us."
+        },
+        "block2": {
+            "title": "What we do",
+            "text": "We <span>rescue of animals</span> that have been neglected, abused, or injured. Also we provide their furher <span>rehabilitation</span> rehabilitation including providing food, shelter, and medical care, as well as socialization and training At the same time we organizing events, conducting campaigns, and soliciting donations."
+        },
+        "block3": {
+            "title": "Why it is so important",
+            "text": "We consider that animals are living beings that are capable of experiencing pain, suffering, and joy. And it is <span>our moral and ethical responsibility to treat animals with kindness and respect, and to prevent them from unnecessary harm and cruelty</span>. By working to protect animals, we can help to create a more just, sustainable world."
+        },
+        "block4": {
+            "title": "How you can help",
+            "item1": "Reduce your environmental impact on nature",
+            "item2": "Be a responsible pet owner and citizen",
+            "item3": "Become a volunteer. Fill the form",
+            "item4": "Donate us. You can do it",
+            "item5": "Buy our merch in our e-shop" 
+        },
+        "block5": "Thank you for your consideration"        
+    },
+    "contacts": {
+        "mainText": "If you have found a suffered or injured animal, or you have questions or suggestions for collaboration -  please contact us via phone or email below:",
+        "subText": "Also you can fill the form below to join us as volunteer"
+    },
+    "footer": {
+        "copyright": "Animal rescue & defence team"
+    }
+}
