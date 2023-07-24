@@ -26,13 +26,54 @@
             "item4": "Donate us. You can do it",
             "item5": "Buy our merch in our e-shop" 
         },
-        "block5": "Thank you for your consideration"        
+        "block5": "Thank you for your consideration",
+        "donate us": "Donate us",
+        "contacts": "Contacts"
     },
     "contacts": {
         "mainText": "If you have found a suffered or injured animal, or you have questions or suggestions for collaboration -  please contact us via phone or email below:",
-        "subText": "Also you can fill the form below to join us as volunteer"
+        "subText": "Also you can join us as volunteer",
+        "instagram": "Our Instagram page",
+        "facebook": "Our Facebook page",
+        "button": "Fill the form",
+        "stayConnected": "Stay connected by following us on our social media channels"
     },
     "footer": {
         "copyright": "Animal rescue & defence team"
+    },
+    "merch": {
+        "label": "Categories",
+        "noItems": "No Items", 
+        "buy": "Buy",
+        "filters": "Filters",
+        "categories": {
+            "uncategorized": "Other",
+            "clothing": "Clothing",
+            "merch": "Merch"
+        }
+    },
+    "checkbox": {
+        "filters": "Filters",
+        "all": "All"
+    },
+    "sorting": {
+        "label": "Sorting"
+    },
+    "checkout": {
+        "title": "Your cart",
+        "empty": "Your cart is empty",
+        "cancel": "Cancel",
+        "order": "Order",
+        "total": "Total",
+        "type": "Type",
+        "quantity": "Quantity",
+        "subtotal": "Subtotal"
+    },
+    "donate": {
+        "chose": "Choose an ammount to donate",
+        "text": "Make a meaningful impact with your donation today. Your contribution matters and helps us create positive change. We deeply appreciate your generosity!",
+        "next": "Next",
+        "other": "Other"
     }
+
 }
